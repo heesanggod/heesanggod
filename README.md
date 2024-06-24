@@ -21,9 +21,8 @@ Hi, I'm 신희상
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heesanggod&show_icons=true&theme=rose_pine)](https://github.com/heesanggod)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heesanggod)](https://github.com/heesanggod)
 
-## 🏅 Badges
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=heesanggod.heesanggod)
-![GitHub followers](https://img.shields.io/github/followers/heesanggod?label=Follow&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/heesanggod?affiliations=OWNER%2CCOLLABORATOR&style=social)
+
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=footer)
