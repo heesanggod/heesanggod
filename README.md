@@ -3,6 +3,9 @@
 ## 👋 Introduction
 Hi, I'm 신희상
 
+## 🚀 Projects
+- **[Team C Project](https://github.com/teamC-project)**: A brief description of what this project is about.
+
 ## 🛠️ Technologies & Tools
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
